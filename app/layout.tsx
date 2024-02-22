@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "CLOUDUS",
   description: "Event management platform for SSMIET",
   icons:{
-    icon: '/assets/icons/logo.svg'
+    icon: '/assets/icon/logo.ico'
   }
 };
 
