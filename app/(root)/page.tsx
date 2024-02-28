@@ -18,7 +18,7 @@ export default function Home() {
             width={500}
             height={500}
             alt="Image"
-            className='max-h-[70vh] object-contain object-center 2xl:max-h-[50vh]'/>
+            className='max-h-[100vh] object-contain object-center 2xl:max-h-[50vh]'/>
         </div>
       </section>
       <section id="events" className='wrapper my-8 flex flex-col gap-8 md:gap-12'>
